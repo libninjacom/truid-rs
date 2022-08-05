@@ -22,7 +22,7 @@
 
 
 
-Truid client, generated from the OpenAPI spec.
+[Tru.id](https://tru.id/) client, generated from the OpenAPI spec.
 
 # [Documentation](https://docs.rs/truid)
 
